@@ -46,4 +46,6 @@ This project allows you to control an LED connected to pin **13** of an Arduino 
    - Pair your mobile device with the **HC-06** Bluetooth module using the default password **"1234"**.
 
 4. **Mobile App**  
-   - Use any Bluetooth terminal app (e.g., **Bluetooth Terminal** on Android) to send `1` to turn the LED ON and `0` to turn the LED OFF.
+   - To interact with the Arduino via Bluetooth, you can use the following mobile app:
+     [Download Bluetooth Serial Monitor on Google Play](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor)
+
